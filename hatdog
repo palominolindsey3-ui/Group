@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    background-color: #fff3e0;
+}
+
+header {
+    background-color: #ff7043;
+    color: white;
+    padding: 40px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+section {
+    padding: 30px;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.food {
+    background-color: white;
+    padding: 20px;
+    width: 180px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #ff7043;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>🍔 Lindsey's Restaurant</h1>
+        <p>Good food, good mood!</p>
+    </header>
+
+    <section>
+        <h2>Our Menu</h2>
+
+        <div class="menu">
+            <div class="food">
+                <h3>Classic Burger</h3>
+                <p>₱99</p>
+            </div>
+
+            <div class="food">
+                <h3>Crispy Chicken</h3>
+                <p>₱129</p>
+            </div>
+
+            <div class="food">
+                <h3>French Fries</h3>
+                <p>₱59</p>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Visit Us!</h2>
+        <p>Come and enjoy delicious food with us.</p>
+        <button>Order Now</button>
+    </section>
+
+</body>
+</html>
